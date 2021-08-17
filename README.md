@@ -1,2 +1,2 @@
 # Atividades-Linguagem-C
-Primeiras atividades realizadas em linguagem C no curso de Análise e Desenvolvimento de Sistemas 
+Repositório de atividades realizadas em linguagem C durante o 1º e 2º semestre do curso de Análise e Desenvolvimento de Sistemas! 
